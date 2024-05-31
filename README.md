@@ -1,7 +1,3 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://www.linkedin.com/in/yogesh-gurjar-556227210)
-
-
-
 <h1 align="center">Hi 👋, I'm Yogesh Gurjar</h1>
 <h3 align="center">A passionate Android developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/3AyY.gif">
